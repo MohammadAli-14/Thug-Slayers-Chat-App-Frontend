@@ -1,0 +1,13 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ],
+  "build": {
+    "env": {
+      "VITE_API_BASE": "https://thug-slayers-chat-app-fin.onrender.com"
+    }
+  }
+}
