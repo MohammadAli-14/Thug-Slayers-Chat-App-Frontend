@@ -4,6 +4,7 @@
 
 **A real-time gaming chat application with immersive UI, group management, and Socket.IO integration**
 
+[![Live Demo](https://img.shields.io/badge/🎮_Live_Demo-Available-green?style=for-the-badge)](https://thug-slayers-chat-app-frontend.vercel.app/)
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-4.x-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.x-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
@@ -16,6 +17,8 @@
 ## 🎯 Overview
 
 Thug Slayers Chat App is a feature-rich, real-time chat application designed for gaming communities. Built with modern React and Vite, it provides seamless one-on-one and group messaging with an immersive gaming-themed interface. The app leverages Socket.IO for real-time communication, Zustand for state management, and features a fully responsive design with audio feedback for an engaging user experience.
+
+**Experience it live:** [https://thug-slayers-chat-app-frontend.vercel.app/](https://thug-slayers-chat-app-frontend.vercel.app/)
 
 ## ✨ Features
 
@@ -299,6 +302,8 @@ The application is fully responsive across all device sizes:
 
 ## 🚀 Deployment
 
+The application is deployed and live at: [https://thug-slayers-chat-app-frontend.vercel.app/](https://thug-slayers-chat-app-frontend.vercel.app/)
+
 ### **Deploy to Vercel (Recommended)**
 1. Push your code to GitHub
 2. Import project in Vercel dashboard
@@ -416,9 +421,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Important Links
 
+- **Live Demo**: [https://thug-slayers-chat-app-frontend.vercel.app/](https://thug-slayers-chat-app-frontend.vercel.app/)
 - **Frontend Repository**: [Thug-Slayers-Chat-App-Frontend](https://github.com/MohammadAli-14/Thug-Slayers-Chat-App-Frontend)
 - **Backend Repository**: [Check main repository for backend link]
-- **Live Demo**: [Coming Soon - Check repository for updates]
 
 ---
 <div align="center">
